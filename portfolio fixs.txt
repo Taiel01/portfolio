@@ -1,0 +1,14 @@
+
+Portfolio:
+
+Agregarle vida con una libreria de animaciones por ejemplo.
+
+que el aboutme se escruba cunado el viewport del scroll llegue a verlo.
+
+El texto del about con la fuente de la pag.
+
+Mi nombre con un padding mas arriba.
+
+El texto en ingles y un boton para hacer la pag en español
+
+ 
